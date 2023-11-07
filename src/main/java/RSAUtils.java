@@ -3,7 +3,7 @@ import java.util.Base64;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import javax.crypto.Cipher;
 import java.nio.charset.StandardCharsets;
